@@ -1,0 +1,33 @@
+# IntelliJ
+.idea
+
+# Cache
+*/__pycache__
+*.pyc
+
+# Build
+build/
+dist/
+phraseextractor.egg-info/
+
+
+# html
+*.html
+
+# ipython
+.ipynb_checkpoints/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+#others
+.DS_Store
+
+
